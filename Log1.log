@@ -1,0 +1,16 @@
+[2019-03-24 10:00:55.297] [Comm Press] [info] Communicaton startup
+[2019-03-24 10:03:02.562] [Comm Press] [info] SendCommand
+[2019-03-24 10:03:02.562] [Comm Press] [info] m_writeData : L
+[2019-03-24 10:03:02.621] [Comm Press] [info] handleTimeout read value:L
+[2019-03-24 10:00:55.297] [MainWindows] [info] MainWindow startup
+[2019-03-24 10:01:51.420] [MainWindows] [info] initMotors
+[2019-03-24 10:00:55.297] [Comm Laser] [info] Communicaton startup
+[2019-03-24 10:01:51.421] [Comm Laser] [info] SendCommand
+[2019-03-24 10:01:51.421] [Comm Laser] [info] m_writeData : #mx=S,200
+[2019-03-24 10:01:51.479] [Comm Laser] [info] handleTimeout Unknown input
+[2019-03-24 10:01:53.475] [Comm Laser] [info] SendCommand
+[2019-03-24 10:01:53.475] [Comm Laser] [info] m_writeData : #my=S,200
+[2019-03-24 10:01:53.540] [Comm Laser] [info] handleTimeout $MY:S,200,1
+[2019-03-24 10:01:51.480] [MainWindows] [info] Data from laser: Unknown input
+[2019-03-24 10:01:53.541] [MainWindows] [info] Data from laser: $MY:S,200,1
+[2019-03-24 10:03:02.621] [MainWindows] [info] Data from press: read value:L
